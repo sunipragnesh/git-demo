@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Hi, this is your friend.
-
-Dont tell me that you dont know me...
+1. index.html
